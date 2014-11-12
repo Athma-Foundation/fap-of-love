@@ -32,8 +32,15 @@ This is a simple guide to understanding what moral policing is, why it is bad, a
 
 
 5. Why are the moral police generally against?
+
+    Some claim that they are trying to preserve the culture. Some actually say they are actually trying to reduce crime agianst women by making women wear decent clothes. All of these arguments are bullshit. 
+
 6. Give me some examples of moral policing in real-life.
+
+
 7. What is public display of affection?
+
+    Public display of affection is displaying love in public spaces. Public spaces are malls, 
 8. Liquor is bad
 9. Legality of moral policing.
 
@@ -58,6 +65,18 @@ This is a simple guide to understanding what moral policing is, why it is bad, a
 5. PDA is disgusting
 6. The society cannot be expected to change 
 7. The larger world view is against (insert something that offends you)
+
+## List of fallacious arguments 
+
+- What will you do if your mother or sister wear revealing clothes? Would you not reprimand them?
+- We are actually making sure women are safe by teaching them not to provocate men to rape them [victim blaming]
+- Your [insert act] is not Indian culture. It is degrading of the cultural values of India
+- You are simply copying western culture. That is bad.
+- My religion does not allow [insert stuff]
+- By doing it, you are insulting [insert religion].
+- You are waging war against [insert religion].
+- You are a left wing / commie / maoist / naxalite [well, shit!]
+- Dressing improperly is a distraction to students [isn't]
 
 ## Partial list of incidents of moral policing
 
