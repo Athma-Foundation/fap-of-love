@@ -22,6 +22,10 @@ This is a simple guide to understanding what moral policing is, why it is bad, a
     Well for starters, it's none of other peoples fucking business what I do or do not do as long as I don't break the law. 
 
 4. What are usually policed?
+    Anything that the moral police find offensive to their culture. Examples include clothing (particularly women), drinking alcohol (particularly women), smoking (particularly women), not wearing a religious attire (particularly women), public displays of affection like kissing or holding hands, partying, pubs, interaction between boys and girls/men and women, celebrations of western special days like valentines day/halloween, cosplays, greeting cards for said days, just anything
+    really!
+
+
 5. Why are the moral police generally against?
 6. Give me some examples of moral policing in real-life.
 7. What is public display of affection?
@@ -50,4 +54,24 @@ This is a simple guide to understanding what moral policing is, why it is bad, a
 6. The society cannot be expected to change 
 7. The larger world view is against (insert something that offends you)
 
+## Partial list of incidents of moral policing
+
+
+## Partial list of protests / movements against moral policing
+- Kiss of love
+- Pink Chaddi Campaign
+- Boobquake
+- Slutwalk
+
+## Partial list of organizations working against moral policing and for freedom of expression
+
+## Partial list of organizations known to have engaged in moral policing
+
+### RELIGIOUS (India)
+- Hindu Sena, Bajrang Dal, SDPI, Shiv Sena, Bharatiya Janata Yuva Morcha [Affiliated to BJP], Vishva Hindu Parishad - [Against Kiss of Love Campaign, 2014](https://en.wikipedia.org/wiki/2014_Kiss_of_Love_protest)
+- Akhil Bharatiya Vidyarthi Parishad [Affiliated to BJP] - [Radisson Blu Beerfest disruption, 2014](http://timesofindia.indiatimes.com/city/chennai/ABVPs-beer-act-kicks-up-furore-gets-BJP-backing/articleshow/44819337.cms)
+- Hindu Jagarana Vedika [affiliated to Sangh Parivar] - [Mangalore homestay attack, 2012](https://en.wikipedia.org/wiki/2012_Mangalore_homestay_attack)
+- Sri Ram Sena [headed by Pramod Muthalik] - [Mangalore pub attack, 2009](https://en.wikipedia.org/wiki/2009_Mangalore_pub_attack)
+
+### POLITICAL
 
