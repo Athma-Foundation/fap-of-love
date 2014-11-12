@@ -40,31 +40,85 @@ This is a simple guide to understanding what moral policing is, why it is bad, a
 
 7. What is public display of affection?
 
-    Public display of affection is displaying love in public spaces. Public spaces are malls, 
+    Public display of affection is displaying love in public spaces. Public spaces are malls, beaches, roads, parking lots, any public space commonly shared. Display of affection could be shaking hands, kissing, hugging, huggling (different), fondling, caressing, holding hands, etc. It does not include, voyuerism, groping or sex. Exposing genitals are considered unacceptable (like by everybody except a handful) and is outright illegal too[Ref: 2]. Voyuerism and groping are
+    non-consensual and as such not expressions of affection. So that's out of the question. 
+
 8. Liquor is bad
+
+    It is. But also legal. 
+
 9. Legality of moral policing.
 
+    This is a tricky question. Most times, moral policing is illegal. 
+
+    Section 294 of the Indian Penal Code (IPC) which deals with "public decency and morals", to justify instances of moral policing. The section states, "Whoever, to the annoyance of other, does any obscene act in any public place ... shall be punished with imprisonment for a term which may extend to three months, or with fine, or with both." This law is prone to abuse due to there being no fixed definition of what constitutes an "obscene act"
 
 ## For the victims of moral policing
 
 1. How can I be more sensitive about certain issues?
+
+    Understand that there are still people who are repulsed by such acts. They have no rights to interfere in your private business and you have every right to kiss your partner or wear whatever you want. But it's good to be sensitive towards the societal norms of the place you are in. It's best (for your own safety) to not attract attention towards you by being the odd ones out. Have fun. Just don't be stupid. 
+
 2. Is there a point that can be described as "crossing the line" for us?
+
+    Sex. And sex like acts. Why? See [ref: 2]
+    
 3. What to do about moral policing?
+
+    Two camps. 1. Stand your ground and fight for your rights. 2. Be diplomatic and exit the situation because you are probably facing a bunch of senseless idiots. In any case, learn how to physically defend yourself. Learn Krav Maga. Speak out. Write blogs. 
+
 4. How do I protect myself?
+
+    If you are in imminent danger, exit the situation. Use verbal judo. Don't escalate things. Use diplomacy. See above. 
+
 5. What are the legal recourses?
+
+    - TODO
+
 6. What organizations can I seek help from?
+
+    - TODO
+
 7. How can I speak out against moral policing?
-8. What to do when confronted with a moral police
+
+    Contributions: TODO
+
+8. What to do when confronted with a moral police?
+
+ - See 3. Clarifications needed. todo
 
 ## For those that think moral policing is (okay|acceptable|good)
 
 1. What is wrong with moral policing?
+
+    Everything. Firstly, It's none of your business. Secondly, you think you have a moral high ground to preach others. You don't. Thirdly, some of you violent ones totally forget that your expressions of hatred are completely acceptable while simple expressions of love are not. More to come..
+
 2. But I am trying to preserve the dignity and honour of the country.
+
+    You are not. What you are doing is to simply insult the value the country stands for. You rob people of the rights and freedoms guaranteed by the constitution that you are supposed to uphold. There's no dignity or honour in that. You're just a mean bully if you engage in policing. Engage in a healthy debate (with interested parties) instead.
+
 3. But I am trying to preserve our culture.
-4. But it is against the tenets of my religion
+
+    You are not. You are simply resisting change. Our culture used to be much worse earlier. Lower caste women were not allowed to cover their breasts while they walked through lands belonging to higher caste people. Widows were burnt along with the corpses of their husbands. These were part of our culture back then. Times have changed. You need to strive to promote love, respect and freedom of thought and expression instead of being stuck in dogma.
+
+4. But it is against the tenets of my religion.
+
+    Probably. But like a good person once said:
+
+    Religion is like a penis. It's okay to have one, it's okay to be proud of yours. 
+    But don't go waving it about when you walk in public.
+
 5. PDA is disgusting
-6. The society cannot be expected to change 
+
+    For you, maybe. But that's your problem. The fact that the country has been allowing people to shit and piss in public is even more disgusting. And we still have manual scavengers and people who go into sewers and clean shit with their bare hands. These things are actually harmful and not at all in accordance with our culture. And I haven't heard of any stories where you morally policed those who let these things happen. Have you?
+
+6. The society cannot be expected to change.
+
+    The only response I can muster to this is you're full of shit.
+
 7. The larger world view is against (insert something that offends you)
+
+    - Requries a better answer than the one I'm thinking of right now.
 
 ## List of fallacious arguments 
 
@@ -87,9 +141,9 @@ This is a simple guide to understanding what moral policing is, why it is bad, a
 - Boobquake
 - Slutwalk
 
-## Partial list of organizations working against moral policing and for freedom of expression
+## Organizations against moral policing and for freedom of expression (partial list)
 
-## Partial list of organizations known to have engaged in moral policing
+## Organizations known to have engaged in moral policing (partial list)
 
 ### RELIGIOUS (India)
 - Hindu Sena, Bajrang Dal, SDPI, Shiv Sena, Bharatiya Janata Yuva Morcha [Affiliated to BJP], Vishva Hindu Parishad - [Against Kiss of Love Campaign, 2014](https://en.wikipedia.org/wiki/2014_Kiss_of_Love_protest)
@@ -99,3 +153,7 @@ This is a simple guide to understanding what moral policing is, why it is bad, a
 
 ### POLITICAL
 
+
+## References
+
+2. https://www.quora.com/Why-is-sex-not-allowed-in-public
