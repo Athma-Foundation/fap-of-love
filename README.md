@@ -3,6 +3,14 @@ fap-of-love
 
 Frequently asked questions and frequently argued (about) points on Moral Policing
 
+## SUPER IMPORTANT
+
+    Our GPG key is 0xD7C6527B. The public key block (ascii armored) 
+     is present in this repository. Please use it if you need to 
+     send us sensitive stuff. 
+
+
+
 ### Why the name?
 
 I was speaking to a friend of mine and said it'll be a nice idea to create an easy to refer FAQ for people who want to know more about moral policing. He thought it was a fine idea. I also told him we should also include frequently argued about points supportive of moral policing like culture. That would be FAPs. And this was created with the Kiss of Love campaign in mind, so I wondered out loud "how about fap of love?". He found it amusing. I liked it too. It's dumb, but I like it. So
@@ -10,7 +18,8 @@ there you go.
 
 For those who are not familiar with the word "fap", I'll let Urban Dictionary do the honours:
 
-    The onomatopoeic representation of masturbation. Often used to suggest that something is attractive. 
+    The onomatopoeic representation of masturbation. Often used to 
+     suggest that something is attractive. 
     - Urban Dictionary
 
 ### Contributions
