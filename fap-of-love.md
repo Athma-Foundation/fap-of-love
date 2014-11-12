@@ -19,11 +19,11 @@ This is a simple guide to understanding what moral policing is, why it is bad, a
 
 3. What is the difference between moral policing and policing by law-enforcement authorities?
     
-    If the person doing the policing does not have legal authority, i.e, if he does not hold a valid police ID card, then it is moral policing. If the person does hold an ID card and is on duty, the second question to ask is if the actions that caused the policing to start are legal in your juristriction. If it is legal, then that is again moral policing.
+    If the person doing the policing does not have legal authority, i.e, if he does not hold a valid police ID card, then it is moral policing. If the person does hold an ID card and is on duty, the second question to ask is if the actions that caused the policing to start are legal in your jurisdiction. If it is legal, then that is again moral policing.
 
 3. What is wrong with moral policing?
     
-    Well for starters, it's none of other peoples fucking business what I do or do not do as long as I don't break the law. 
+    Well for starters, it's none of other people's fucking business what I do or do not do as long as I don't break the law. 
 
 4. What are usually policed?
     
@@ -33,10 +33,9 @@ This is a simple guide to understanding what moral policing is, why it is bad, a
 
 5. Why are the moral police generally against?
 
-    Some claim that they are trying to preserve the culture. Some actually say they are actually trying to reduce crime agianst women by making women wear decent clothes. All of these arguments are bullshit. 
+    Some claim that they are trying to preserve the culture. Some say they are actually trying to reduce crime against women by making women wear decent clothes. All of these arguments are bullshit. 
 
 6. Give me some examples of moral policing in real-life.
-
 
 7. What is public display of affection?
 
