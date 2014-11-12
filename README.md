@@ -6,10 +6,11 @@ Frequently asked questions and frequently argued (about) points on Moral Policin
 ## SUPER IMPORTANT
 
     Our GPG key is 0xD7C6527B. The public key block (ascii armored) 
-     is present in this repository. Please use it if you need to 
-     send us sensitive stuff. 
+    is present in this repository. Please use it if you need to 
+    send us sensitive stuff. Encryption is good! Keeps big bros away.
 
 
+Click on the file and click on "Raw" to download the key or simply use 'git clone' if you know what that is.
 
 ### Why the name?
 
@@ -24,15 +25,15 @@ For those who are not familiar with the word "fap", I'll let Urban Dictionary do
 
 ### Contributions
 
-- Please file issues in case of errors, grammatical or semantic
-- If you have a list of NGOs working against moral policing, or if you have a list of organizations who engage in moral policing, kindly send an email to athma.foundation@gmail.com. 
+- Please file issues in case of errors, grammatical or semantic. Or send us an email.
+- If you have a list of NGOs working against moral policing, or if you have a list of organizations who engage in moral policing, kindly send an email to athma.foundation [at] gmail.
 - Note that without citing sources, I would not accept your contribution
 - Those who know git can fork the repo and send me pull requests. I am the supreme authority for this repository (hehe ;)
 
     IMPORTANT: By sending me stuff, you consent to your contributions being in the public domain. (You can't demand credit for your contributions. Some people give credit where it's due. Others don't. Deal with it.)
 
-### Know issues
+### Known issues
 
-- Too much use of "moral police" in the doc. If you know a better pronoun or a shorter phrase I can use, kindly let me know. 
+- Too much use of the phrase "moral police" in the doc. If you know a better pronoun or a shorter phrase I can use, kindly let me know. 
 - I tend to use swear words. So do not file bug reports asking me to remove them. I won't. You can fork this and make a child-safe saintly version that's less offensive if you choose to.
-
+- Not enough contributors, I'm just a single person and it's easy for my biases and fallacies to slip in. I need more people to review, critique and contribute content. Kindly use the issues section or send us an email. 
