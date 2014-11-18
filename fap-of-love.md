@@ -153,6 +153,9 @@ This is a simple guide to understanding what moral policing is, why it is bad, a
 
 ### POLITICAL
 
+### Moral policing in educational institutions
+- Sathyabama university (Tamil Nadu) - All institutions run by "Jeppiar" are engaged in heavy moral policing. Boys are severly discouraged from talking to Girls and there are even secregations in the college buses. Boys and girls speaking to each other attracts punishments including fines.
+- Aligargh Muslim University - Women's college students were denied membership to the university "Maulana Azad Library" because according to vice chancellor Zameer Uddin Shah, "there would be four times more boys if the girls were allowed in". Even the women's college principal Naima Gulrez concurred with the VC saying "have you girls ever seen the library? It is jam-packed with boys. If girls too were present in it, the discipline issue might crop up". The students reacted to the reporting of this issue by banning the TOI newspaper within the institution. 
 
 ## References
 
